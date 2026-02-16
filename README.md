@@ -2,7 +2,15 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+
+
+
 <h3 align="center">
+   <h5 align="center"> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ </h5>
+</h3>
+
+<h3 align="center">
+   
   Hi, I'm Abdellah Chatioui
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -29,7 +37,7 @@
         Frontend:
     </td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=angular,html,css,tailwind,bootstrap,nextjs,js,vite" />
+        <img height="40" src="https://skillicons.dev/icons?i=angular,react,nextjs,js,tailwind,bootstrap" />
     </td>
 </tr>
 <tr>
@@ -37,7 +45,7 @@
         Database:
     </td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
     </td>
 </tr>
 <tr>
@@ -80,7 +88,4 @@
 
 ------
 
-<h5 align="center"> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ </h5>
 
-
-------
