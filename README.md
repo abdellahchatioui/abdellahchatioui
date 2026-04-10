@@ -45,7 +45,7 @@
         Database:
     </td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis" />
     </td>
 </tr>
 <tr>
