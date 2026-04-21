@@ -74,6 +74,7 @@
     </td>
     <td>
         <img height="40" src="https://cdn-icons-png.flaticon.com/512/14982/14982659.png" />
+         <img height="40" src="https://skillicons.dev/icons?i=graphql" />
     </td>
 </tr>
     <tr>
