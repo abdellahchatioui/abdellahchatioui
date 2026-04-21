@@ -27,7 +27,7 @@
         Backend:
     </td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=spring,express,laravel,nodejs" />
+        <img height="40" src="https://skillicons.dev/icons?i=spring,express,laravel,nodejs,php" />
     </td>
 </tr>
 </tr>
