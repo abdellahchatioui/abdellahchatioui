@@ -18,74 +18,46 @@
 ---
 
 👨‍💻 I’m a Full-Stack Developer building fast, scalable, and user-friendly web apps.
-
 ## 🛠 &nbsp;Tech Stack
 <table>
-<tr>
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-        Backend:
-    </td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=spring,express,laravel,nodejs,php" />
-    </td>
-</tr>
-</tr>
-</tr>
- <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">
-        Frontend:
-    </td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=angular,react,nextjs,js,tailwind,bootstrap" />
-    </td>
-</tr>
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-        Database:
-    </td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis" />
-    </td>
-</tr>
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-        DevOps:
-    </td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=docker,netlify,vercel" />
-    </td>
-</tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=spring,express,laravel,nodejs,php" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,nextjs,js,tailwind,bootstrap" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis" /></td>
+    </tr>
+    <!-- Messaging Row Added Here -->
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Messaging:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=kafka,rabbitmq,keycloak" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,netlify,vercel" /></td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitea"/></td>
     </tr>
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-        IDEs:
-    </td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=vscode,idea" />
-    </td>
-</tr>
-   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-        APIs:
-    </td>
-    <td>
-        <img height="40" src="https://cdn-icons-png.flaticon.com/512/14982/14982659.png" />
-         <img height="40" src="https://skillicons.dev/icons?i=graphql" />
-    </td>
-</tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">APIs:</td>
+        <td>
+            <img height="40" src="https://cdn-icons-png.flaticon.com/512/14982/14982659.png" />
+            <img height="40" src="https://skillicons.dev/icons?i=graphql" />
+        </td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
-    </tr>
 </table>
+
 
 ------
 ## 👨‍💻 Author
